@@ -32,3 +32,4 @@ C:\dev\ignite\c#\petfolio\petfolio.api\obj\Debug\net8.0\petfolio.api.pdb
 C:\dev\ignite\c#\petfolio\petfolio.api\obj\Debug\net8.0\petfolio.api.genruntimeconfig.cache
 C:\dev\ignite\c#\petfolio\petfolio.api\obj\Debug\net8.0\ref\petfolio.api.dll
 C:\dev\ignite\c#\petfolio\petfolio.api\obj\Debug\net8.0\Petfolio.223A59F0.Up2Date
+C:\dev\ignite\c#\petfolio\petfolio.api\obj\Debug\net8.0\Petfolio.API.sourcelink.json
