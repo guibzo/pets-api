@@ -1,0 +1,15 @@
+C:\dev\ignite\c#\petfolio\petfolio.application\bin\Debug\net8.0\petfolio.application.deps.json
+C:\dev\ignite\c#\petfolio\petfolio.application\bin\Debug\net8.0\petfolio.application.dll
+C:\dev\ignite\c#\petfolio\petfolio.application\bin\Debug\net8.0\petfolio.application.pdb
+C:\dev\ignite\c#\petfolio\petfolio.application\bin\Debug\net8.0\petfolio.communication.dll
+C:\dev\ignite\c#\petfolio\petfolio.application\bin\Debug\net8.0\petfolio.communication.pdb
+C:\dev\ignite\c#\petfolio\petfolio.application\obj\Debug\net8.0\petfolio.application.csproj.AssemblyReference.cache
+C:\dev\ignite\c#\petfolio\petfolio.application\obj\Debug\net8.0\petfolio.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ignite\c#\petfolio\petfolio.application\obj\Debug\net8.0\petfolio.application.AssemblyInfoInputs.cache
+C:\dev\ignite\c#\petfolio\petfolio.application\obj\Debug\net8.0\petfolio.application.AssemblyInfo.cs
+C:\dev\ignite\c#\petfolio\petfolio.application\obj\Debug\net8.0\petfolio.application.csproj.CoreCompileInputs.cache
+C:\dev\ignite\c#\petfolio\petfolio.application\obj\Debug\net8.0\petfolio.application.dll
+C:\dev\ignite\c#\petfolio\petfolio.application\obj\Debug\net8.0\refint\petfolio.application.dll
+C:\dev\ignite\c#\petfolio\petfolio.application\obj\Debug\net8.0\petfolio.application.pdb
+C:\dev\ignite\c#\petfolio\petfolio.application\obj\Debug\net8.0\ref\petfolio.application.dll
+C:\dev\ignite\c#\petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.32F76676.Up2Date

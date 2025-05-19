@@ -1,0 +1,11 @@
+C:\dev\ignite\c#\petfolio\petfolio.communication\bin\Debug\net8.0\petfolio.communication.deps.json
+C:\dev\ignite\c#\petfolio\petfolio.communication\bin\Debug\net8.0\petfolio.communication.dll
+C:\dev\ignite\c#\petfolio\petfolio.communication\bin\Debug\net8.0\petfolio.communication.pdb
+C:\dev\ignite\c#\petfolio\petfolio.communication\obj\Debug\net8.0\petfolio.communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ignite\c#\petfolio\petfolio.communication\obj\Debug\net8.0\petfolio.communication.AssemblyInfoInputs.cache
+C:\dev\ignite\c#\petfolio\petfolio.communication\obj\Debug\net8.0\petfolio.communication.AssemblyInfo.cs
+C:\dev\ignite\c#\petfolio\petfolio.communication\obj\Debug\net8.0\petfolio.communication.csproj.CoreCompileInputs.cache
+C:\dev\ignite\c#\petfolio\petfolio.communication\obj\Debug\net8.0\petfolio.communication.dll
+C:\dev\ignite\c#\petfolio\petfolio.communication\obj\Debug\net8.0\refint\petfolio.communication.dll
+C:\dev\ignite\c#\petfolio\petfolio.communication\obj\Debug\net8.0\petfolio.communication.pdb
+C:\dev\ignite\c#\petfolio\petfolio.communication\obj\Debug\net8.0\ref\petfolio.communication.dll
